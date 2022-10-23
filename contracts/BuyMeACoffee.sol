@@ -14,7 +14,7 @@ contract BuyMeACoffee {
         address indexed from,
         uint256 timestamp,
         string name,
-        string message,
+        string message
     );
 
     // Memo struc
